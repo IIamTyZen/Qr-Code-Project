@@ -52,3 +52,4 @@ With this project I was able to work mostly on flexbox, with some media queries 
 
 ## Acknowledgments
 
+Please do not redistribute or copy the code without my permission.
